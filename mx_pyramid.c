@@ -66,6 +66,3 @@ void mx_pyramid(int n) {
             mx_printchar('\n');
         }
 }
-int main(){
-    mx_pyramid(10);
-}
